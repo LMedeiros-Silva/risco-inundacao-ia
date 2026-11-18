@@ -3,6 +3,8 @@
 Protótipo da disciplina **Inteligência Computacional e Artificial**: prevê `FloodProbability` (dataset sintético
 *Regression with a Flood Prediction Dataset* – Kaggle Playground S4E5) e converte a previsão em alerta **baixo / médio / alto**.
 
+🎥 **Vídeo de demonstração:** https://youtu.be/XnceOwrEZ3I
+
 | Arquivo | Conteúdo |
 |---|---|
 | `risco_inundacao.ipynb` | Exploração, preparação, treino (Regressão Linear x Random Forest), MAE/RMSE, gráficos, alertas, 3 cenários, interface com widgets e limitações |
